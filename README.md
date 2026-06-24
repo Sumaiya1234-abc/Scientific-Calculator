@@ -78,12 +78,9 @@ MINI PROJECT/
 
 ## ▶️ How to Run
 
-1. Open the project folder.
-
-2. Launch `index.html` in your browser.
-
-No additional dependencies or installations are required.
-
+1. Download or clone the repository.
+2. Open `index.html` in your preferred browser.
+3. Start calculating!
 ---
 
 ## 📸 Screenshots
